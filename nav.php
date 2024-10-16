@@ -34,8 +34,8 @@
       
       <!-- Separate Styled Sign In and Register Buttons -->
       <div style="display: flex; gap: 5px;"> <!-- Flex container with a small gap -->
-        <a href="signin.php" class="btn btn-custom">Sign In</a>
-        <a href="register.php" class="btn btn-custom">Register</a>
+        <a href="signin" class="btn btn-custom">Sign In</a>
+        <a href="register" class="btn btn-custom">Register</a>
       </div>
       
     </div>

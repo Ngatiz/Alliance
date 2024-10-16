@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-6">
             <h2 class="text-center">Register</h2>
-            <form action="register.php" method="post">
+            <form action="register" method="post">
                 <div class="mb-3">
                     <label for="registerName" class="form-label">Name</label>
                     <input type="text" class="form-control" id="registerName" name="name" placeholder="Enter your name" required>
@@ -20,7 +20,7 @@
                 </div>
                 <button type="submit" class="btn btn-success">Register</button>
             </form>
-            <p class="mt-3 text-center">Already have an account? <a href="signin.php">Login</a></p>
+            <p class="mt-3 text-center">Already have an account? <a href="signin">Sign in</a></p>
         </div>
     </div>
 </div>
