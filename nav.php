@@ -41,20 +41,3 @@
     </div>
   </div>
 </nav>
-
-<style>
-    .btn-custom {
-        background-color: #00BFFF; /* Aqua blue background */
-        color: white; /* Text color */
-        border: none; /* Remove default border */
-        padding: 10px 20px; /* Add some padding */
-        text-decoration: none; /* No underline */
-        display: inline-block; /* Make it behave like a button */
-        border-radius: 0; /* Square corners */
-        transition: background-color 0.3s; /* Smooth hover transition */
-    }
-    
-    .btn-custom:hover {
-        background-color: #87CEEB; /* Sky blue on hover */
-    }
-</style>

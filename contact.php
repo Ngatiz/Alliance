@@ -1,30 +1,6 @@
 <?php include 'header.php'; ?>
 <?php include 'nav.php'; ?>
 
-<style>
-    body {
-        background-color: #f8f9fa; /* Light gray background */
-    }
-    .contact-container {
-        background-color: #ffffff; /* White background for the form */
-        padding: 20px;
-        border-radius: 8px; /* Rounded corners */
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-    }
-    .contact-title {
-        color: #007bff; /* Bootstrap primary color */
-        margin-bottom: 20px;
-    }
-    .btn-primary {
-        background-color: #28a745; /* Custom green for the button */
-        border-color: #28a745; /* Match border color */
-        width: 100%; /* Full width button */
-    }
-    .btn-primary:hover {
-        background-color: #218838; /* Darker green on hover */
-    }
-</style>
-
 <div class="container mt-5">
     <div class="row justify-content-center">
         <div class="col-md-6 contact-container">

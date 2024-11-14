@@ -1,0 +1,35 @@
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
+.contact-container {
+    background-color: #ffffff; /* White background for the form */
+    padding: 20px;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+.contact-title {
+    color: #007bff; /* Bootstrap primary color */
+    margin-bottom: 20px;
+}
+.btn-primary {
+    background-color: #28a745; /* Custom green for the button */
+    border-color: #28a745; /* Match border color */
+    width: 100%; /* Full width button */
+}
+.btn-primary:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+.btn-custom {
+    background-color: #00BFFF; /* Aqua blue background */
+    color: white; /* Text color */
+    border: none; /* Remove default border */
+    padding: 10px 20px; /* Add some padding */
+    text-decoration: none; /* No underline */
+    display: inline-block; /* Make it behave like a button */
+    border-radius: 0; /* Square corners */
+    transition: background-color 0.3s; /* Smooth hover transition */
+}
+
+.btn-custom:hover {
+    background-color: #87CEEB; /* Sky blue on hover */
+}
